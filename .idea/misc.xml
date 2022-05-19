@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/1_2022_DS_ALANA/ANDROID/Affirmations/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/1_2022_DS_ALANA/ANDROID/Affirmations/app/src/main/res/drawable/ic_favorite.xml" value="0.15833333333333333" />
+        <entry key="..\:/1_2022_DS_ALANA/ANDROID/Affirmations/app/src/main/res/drawable/icon_1.xml" value="0.1609375" />
+        <entry key="..\:/1_2022_DS_ALANA/ANDROID/Affirmations/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/1_2022_DS_ALANA/ANDROID/Affirmations/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/1_2022_DS_ALANA/ANDROID/Affirmations/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1421875" />
+        <entry key="..\:/1_2022_DS_ALANA/ANDROID/Affirmations/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.27708333333333335" />
       </map>
     </option>
   </component>

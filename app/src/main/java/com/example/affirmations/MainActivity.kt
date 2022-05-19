@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.affirmations.adapter.ItemAdapter
 import com.example.affirmations.data.Datasource
 import com.example.affirmations.databinding.ActivityMainBinding
+import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
 
@@ -26,7 +27,6 @@ class MainActivity : AppCompatActivity() {
         recyclerView.adapter = ItemAdapter(this, myDataset)
 
         recyclerView.setHasFixedSize(true)
-
 
     }
 
